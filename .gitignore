@@ -1,0 +1,8 @@
+*tfstate.backup
+*.terraform.lock.hcl
+*terraform.tfstate
+*.terraform-provider-google_v4.52.0_x5
+*/Users/mark/Downloads/rest/dev/terraformgpc/prod/.terraform/modules/gke_cluster.gke_auth
+*vars.tfvars
+*.git
+*.terraform
